@@ -271,10 +271,6 @@ body {
   box-shadow: none;
 }
 
-.answer-btn:hover {
-  background: #c5e1a5;
-}
-
 .answer-btn.correct {
   background: #d4edda;
   border: 2px solid #2e7d32;
