@@ -345,10 +345,10 @@ function setScreenTheme(screen) {
     quizScreen.style.backgroundColor = "#e8f5e9";
     endScreen.style.backgroundColor = "#e8f5e9";
   } else if (screen === "quiz") {
-    body.style.backgroundColor = "#f3f3f3";
-    startScreen.style.backgroundColor = "#f3f3f3";
-    quizScreen.style.backgroundColor = "#f3f3f3";
-    endScreen.style.backgroundColor = "#f3f3f3";
+    body.style.backgroundColor = "#e8f5e9";
+    startScreen.style.backgroundColor = "#e8f5e9";
+    quizScreen.style.backgroundColor = "#e8f5e9";
+    endScreen.style.backgroundColor = "#e8f5e9";
   } else if (screen === "end") {
     body.style.backgroundColor = "#e8f5e9";
     startScreen.style.backgroundColor = "#e8f5e9";
